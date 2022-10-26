@@ -13,7 +13,9 @@
 Contributions are always welcomed :)
 
 My Discord: Klay Jensen#6097
-  
+
+## 📸 Screenshots
+<img src="" />
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
