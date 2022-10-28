@@ -16,12 +16,13 @@ My Discord: Klay Jensen#6097
 
 ## 📸 Screenshots
 <img src="https://raw.githubusercontent.com/tejas2510/AppleWebsiteClone/main/assets/screencapture-192-168-29-74-5500-index-html-2022-10-28-22_59_50.png">
+
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/tejas2510/KlayBot-v6/graphs/contributors">
-  <img src="" />
+<a href="https://github.com/tejas2510/AppleWebsiteClone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tejas2510/AppleWebsiteClone" />
 </a>
 
 
