@@ -14,7 +14,7 @@ Contributions are always welcomed :)
 
 My Discord: Klay Jensen#6097
 
-## 📸 Screenshots
+## 📸 Live Preview
 <img src="https://raw.githubusercontent.com/tejas2510/AppleWebsiteClone/main/assets/screencapture-192-168-29-74-5500-index-html-2022-10-28-22_59_50.png">
 
 ## ✨ Contributors
