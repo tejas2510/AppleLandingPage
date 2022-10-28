@@ -9,7 +9,7 @@
 
 
 #### Most likely wont run because its not responsive and not made for your computer resolution.
-#### I started this project from a simple HTML boilerplate, never expected to actually finish it ;-;
+#### I started this project from a simple HTML boilerplate, never expected to actually finish it ;-; (now it has over 1000+ lines of code)
 
 Contributions are always welcomed :)
 
