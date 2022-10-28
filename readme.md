@@ -21,7 +21,7 @@ My Discord: Klay Jensen#6097
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
 <a href="https://github.com/tejas2510/KlayBot-v6/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tejas2510/KlayBot-v6" />
+  <img src="[https://contrib.rocks/image?repo=tejas2510/KlayBot-v6](https://github.com/tejas2510/AppleWebsiteClone/blob/main/assets/screencapture-192-168-29-74-5500-index-html-2022-10-28-22_59_50.png?raw=true)" />
 </a>
 
 
